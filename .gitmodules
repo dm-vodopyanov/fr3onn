@@ -1,0 +1,9 @@
+[submodule "submodules/opencv"]
+	path = submodules/opencv
+	url = https://github.com/opencv/opencv.git
+[submodule "submodules/mraa"]
+	path = submodules/mraa
+	url = https://github.com/intel-iot-devkit/mraa.git
+[submodule "submodules/dlib"]
+	path = submodules/dlib
+	url = https://github.com/davisking/dlib.git
