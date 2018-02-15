@@ -2,7 +2,7 @@
 
 ### Overview
 
-Face Recognition with 3D imaging, OpenCV and Neural Nets - a face recognition system using OpenCV, Intel(R) Joule(TM), Intel(R) RealSense(TM), 3D prototyping and printing. The system can open doors and storages, can notify when someone comes and so on. And it will be resistant to spoofing. For more information read our [article](<ADD_A_LINK>) (in Russian).
+Face Recognition with 3D imaging, OpenCV and Neural Nets - a face recognition system using OpenCV, Intel(R) Joule(TM), Intel(R) RealSense(TM), 3D prototyping and printing. The system can open doors and storages, can notify when someone comes and so on. And it will be resistant to spoofing. For more information read our [article](https://geektimes.ru/company/intel/blog/298205/) (in Russian).
 
 ### Requirements
 
